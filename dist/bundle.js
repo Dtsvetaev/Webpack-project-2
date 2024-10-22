@@ -1,0 +1,1 @@
+(()=>{"use strict";(new class{start(){console.log("game started")}}).start();const s=new class{constructor(){this.data="Saving data..."}};console.log(s),console.log("Reading game saving..."),console.log("Writing game saving...")})();
